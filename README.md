@@ -11,7 +11,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/vikaskalsariya/jwt-auth-POC.git)
    ```
 
 2. Install dependencies:
